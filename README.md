@@ -1,8 +1,8 @@
-# thinkpad-T480-hackintosh
-ThinkPad T480 Hackintosh EFI
+# ThinkPad T480 Hackintosh EFI
 
 ## Info
 OS: 64bit Mac OS X 10.15.4 19E287
+
 EFI: OpenCore
 
 #### Hardware
@@ -26,5 +26,5 @@ EFI: OpenCore
 - ~~wifi, bluetooth~~
 
 #### Thanks
-- (黑果小兵的部落阁)[https://blog.daliansky.net/]
-- ()[https://github.com/nhoxnho1212/thinkpad-t480-hackintosh]
+- [黑果小兵的部落阁](https://blog.daliansky.net/)
+- [thinkpad-t480-hackintosh](https://github.com/nhoxnho1212/thinkpad-t480-hackintosh)
