@@ -1,6 +1,6 @@
 # ThinkPad T480 Hackintosh EFI
 
-## Info
+## OS Info
 OS: 64bit Mac OS X 10.15.4 19E287
 
 EFI: OpenCore
@@ -14,7 +14,7 @@ EFI: OpenCore
        .:-::- .+/:-``.::-       Uptime: 3d 21h 29m
     .:/++++++/::::/++++++/:`    Packages: 20
   .:///////////////////////:`   Shell: zsh 5.7.1
-  ////////////////////////`     Resolution: 1920x1080 ,2560*1440
+  ////////////////////////`     Resolution: 1920x1080 ,2560x1440
  -+++++++++++++++++++++++`      DE: Aqua
  /++++++++++++++++++++++/       WM: Quartz Compositor
  /sssssssssssssssssssssss.      WM Theme: Blue
@@ -28,15 +28,15 @@ EFI: OpenCore
 
 ```
 
-#### Hardware
+## Hardware
 - CPU: Intel Core i5-8250U @ 1.60GHz
 - GPU: Intel UHD Graphics 620
 - Disk: 512G
-- RAM: 32G(2*16G)
+- RAM: 32G(2x16G)
 - 1080p screen touch
 - Intel I219V4 PCI Express Gigabit Ethernet
 
-#### Working
+## Status
 - Keyboard & TrackPoint/TrackPad (as mouse)
 - Screen brightness & brightness shortcut keys
 - Basic audio including speaker, internal mic, headphone jack
@@ -46,9 +46,9 @@ EFI: OpenCore
 - HDMI video port, with audio,support 2K HiDPI
 - USB type-C video output, with audio
 - Sleep/resume 
-- ~~wifi, bluetooth~~(no upgrade hardware)
+- ~~WiFi, Bluetooth~~(not change hardware)
 - ~~support HDMI2 4K screen~~
 
-#### Thanks
+## Thanks
 - [黑果小兵的部落阁](https://blog.daliansky.net/)
 - [thinkpad-t480-hackintosh](https://github.com/nhoxnho1212/thinkpad-t480-hackintosh)
